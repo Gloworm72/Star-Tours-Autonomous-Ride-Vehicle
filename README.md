@@ -1,6 +1,7 @@
-# StarTours
+https://github.com/user-attachments/assets/b181001b-00b4-43b8-9d5b-1cbc16d668c2
 
-https://andrewcongdon14.wixsite.com/andrew-congdon
+
+**Project Website:** https://andrewcongdon14.wixsite.com/andrew-congdon
 
 # 🚀 Star Tours: The Adventures Continue - Model Ride Vehicle
 
@@ -59,7 +60,7 @@ The Star Tours ride vehicle is equipped with:
 
 ---
 
-## 🛠Hardware Components
+## Hardware Components
 
 - Arduino Mega 2560
 - SABER 2X12 Motor Controller
@@ -90,10 +91,30 @@ Scene state is tracked using parallel arrays for movement and event timing.
 
 ---
 
-## Demo + Documentation
+## Photos, Videos, and In-Depth Documentation
 
-For photos, videos, and in-depth documentation, visit the [project webpage](https://gloworm72.wixsite.com/mysite/star-tours-model-ride-vehicle) or check out the [YouTube highlight reel](https://www.youtube.com/watch?v=IFpQFHPK7W4).
+For more details on the design process, component breakdown, and showcase footage, visit the [project webpage](https://andrewcongdon14.wixsite.com/andrew-congdon/star-tours-ride-vehicle-model).
 
+---
+
+### Main Highlight Reel
+
+[![Watch the Star Tours Ride Vehicle Demo](https://img.youtube.com/vi/Z52RZPWkk8M/0.jpg)](https://www.youtube.com/watch?v=Z52RZPWkk8M)
+
+> *Click the image above to watch the full demo.*
+
+---
+
+### Additional Videos
+
+#### All Automated Routines with Movement  
+[![Watch the Automated Routines Video](https://img.youtube.com/vi/Ua834crMiS8/0.jpg)](https://www.youtube.com/watch?v=Ua834crMiS8&t=33s)  
+> *Click to view: vehicle movement across all routines.*
+
+#### Nighttime Lighting & Sound Footage  
+[![Watch the Nighttime Lighting & Sound Demo](https://img.youtube.com/vi/c_MUbfIIzZo/0.jpg)](https://www.youtube.com/watch?v=c_MUbfIIzZo)  
+> *Click to view: synchronized lighting and sound effects in a dark setting.*
+      
 ---
 
 ## Files
