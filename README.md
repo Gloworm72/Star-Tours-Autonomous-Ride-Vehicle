@@ -3,7 +3,7 @@ https://github.com/user-attachments/assets/b181001b-00b4-43b8-9d5b-1cbc16d668c2
 
 **Project Website:** https://andrewcongdon14.wixsite.com/andrew-congdon
 
-# 🚀 Star Tours: The Adventures Continue - Model Ride Vehicle
+# Star Tours: The Adventures Continue - Model Ride Vehicle
 
 This repository contains the Arduino code for a fully functional Star Tours model ride vehicle, created as a final project for the *Introduction to Droid Building* course at the University of Notre Dame in Fall 2024.
 
